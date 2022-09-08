@@ -1,0 +1,8 @@
+*.project
+*.o
+Debug
+*.mk
+makefile
+*.d
+.settings
+*.elf
